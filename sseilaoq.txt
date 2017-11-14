@@ -1,0 +1,6 @@
+PUSH - Mandar algo para o
+meu repositório.
+
+
+PULL - Puxar a última
+versão do meu repositório.
